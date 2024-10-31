@@ -1,9 +1,186 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Pagina-1" id="3lH-unew0QHCKQf8BJHz">
-    <mxGraphModel>
+    <mxGraphModel dx="1518" dy="2291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WDLXAypAje4OOuT51dlW-1" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Analisi dei processi&lt;/font&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-220" width="510" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-2" target="WDLXAypAje4OOuT51dlW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-2" target="WDLXAypAje4OOuT51dlW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-2" target="WDLXAypAje4OOuT51dlW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-2" target="WDLXAypAje4OOuT51dlW-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-2" value="Paziente entra nel sito" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-3" target="WDLXAypAje4OOuT51dlW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-3" target="WDLXAypAje4OOuT51dlW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-3" value="Richiede prenotazione esame&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-4" target="WDLXAypAje4OOuT51dlW-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-4" value="Visualizza referti" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-5" target="WDLXAypAje4OOuT51dlW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-5" value="Contatta centralino per la prenotazione" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-6" target="WDLXAypAje4OOuT51dlW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-6" value="Paziente in possesso di un account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-7" target="WDLXAypAje4OOuT51dlW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-7" value="Registrazione account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-8" target="WDLXAypAje4OOuT51dlW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-8" value="Paziente non in possesso di un account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-34" target="WDLXAypAje4OOuT51dlW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-9" value="Raccolta dati del paziente (dati anagrafici, motivo della visita)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-10" target="WDLXAypAje4OOuT51dlW-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-10" value="Esame con impegnativa del medico di base" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-44" target="WDLXAypAje4OOuT51dlW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-11" value="Esame senza impegnativa del medico di base" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-23" value="Invio email di conferma per esame" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-24" target="WDLXAypAje4OOuT51dlW-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-24" value="Invio richiesta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-25" target="WDLXAypAje4OOuT51dlW-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-25" value="Inserimento impegnativa tramite file .pdf , .jpeg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-9" target="WDLXAypAje4OOuT51dlW-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="80" as="sourcePoint" />
+            <mxPoint x="1190" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-34" target="WDLXAypAje4OOuT51dlW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-34" value="Scelta tipologia esame" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-37" target="WDLXAypAje4OOuT51dlW-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-37" value="Inserimento del numero di accettazione e password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-38" value="Visualizzazione referto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-41" target="WDLXAypAje4OOuT51dlW-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-41" value="Effettua esame" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-42" target="WDLXAypAje4OOuT51dlW-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-42" target="WDLXAypAje4OOuT51dlW-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-42" target="WDLXAypAje4OOuT51dlW-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-42" value="Produzione del referto da parte del medico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-11" target="WDLXAypAje4OOuT51dlW-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="20" as="sourcePoint" />
+            <mxPoint x="1830" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-44" value="Verifica della disponibilità dei medici e degli orari" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-52" value="Caricamento del referto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-56" value="Consegna del referto al paziente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-58" target="WDLXAypAje4OOuT51dlW-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-58" value="Valutazione per possibilità di intervento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-61" target="WDLXAypAje4OOuT51dlW-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-61" value="Comunicazione con il paziente e pianificazione della data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-63" target="WDLXAypAje4OOuT51dlW-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-63" value="Assegnazione della stanza e del letto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-64" target="WDLXAypAje4OOuT51dlW-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-64" value="Verifica disponibilità letto nel reparto specifico all&#39;intervento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-65" value="Somministrazione medicinali per terapia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WDLXAypAje4OOuT51dlW-66" target="WDLXAypAje4OOuT51dlW-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDLXAypAje4OOuT51dlW-66" value="Esecuzione dell&#39;intervento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
